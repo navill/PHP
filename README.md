@@ -13,5 +13,5 @@
 - [MySQL](readme_folder/PHP_database.md)
 - [File Upload](readme_folder/PHP_file_upload.md)
 - [php 정리1](readme_folder/PHP_Documents.md)
-- [php 정리1](readme_folder/PHP강의.md)
+- [php 정리2](readme_folder/PHP강의.md)
 
