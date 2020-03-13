@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 	$db_->execute();
 	$row = $db_->fetch();
 	# db에서 유저 정보와 입력된 password 비교
-	if($row["password"] == $password){  // db의 패스워드와 입력한 패스워드 비교
+	if($row["password"] == $password){  
 		$name = $row['name'];
 		$id	= $row['id'];
 		if(!isset($_SESSION)){
